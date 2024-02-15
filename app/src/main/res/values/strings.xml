@@ -1,12 +1,10 @@
 <resources>
     <string name="app_name">PDF Viewer And Editor</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="merge">Merge PDF: Combines two or more PDFs in the order you wish</string>
     <string name="split">Split PDF: Divides a PDF with multiple pages into smaller PDF documents.</string>
     <string name="extract">An image text extraction feature in a PDF application allows users to select an image, click on it, and extract the text from that image</string>
     <string name="title_activity_sign_up">SignUp</string>
-    <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>

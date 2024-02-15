@@ -98,7 +98,6 @@ class ToolsFragment : Fragment() {
             openPdfInViewer(outputFile)
         } catch (e: IOException) {
             e.printStackTrace()
-            // TODO: Handle the error
             showToast("Error merging PDFs")
         }
     }
