@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141579204221",
+    "project_id": "pdf-viewer-and-editor-d9f09",
+    "storage_bucket": "pdf-viewer-and-editor-d9f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141579204221:android:b7c45671f49b90599da314",
+        "android_client_info": {
+          "package_name": "com.example.pdfviewerandeditor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_R1gFW-g0s7_yp75M_GpZ2-516U0hgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
